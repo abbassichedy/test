@@ -9,6 +9,8 @@ function App() {
     <div>
       <Timer/>
       <p>hatem</p>
+      <p>chedy</p>
+      
     </div>
   );
 }
