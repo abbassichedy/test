@@ -1,0 +1,41 @@
+
+.timer{
+    display: flex;
+    flex-direction: column;
+    border:2px solid black;
+    border-radius: 10px;
+    width: 300px;
+    height: 400px;
+    margin: 0px 200px 0px 200px;
+    padding-top: 100px;
+}
+   
+.chrono{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+    
+}
+.heure{
+    display: flex;
+    flex-direction: column;;
+    align-items: center;
+
+}
+.second{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.minute{
+     display: flex;
+    flex-direction: column;;
+    align-items: center;
+}
+.bouton{
+    display: flex;
+    justify-content: space-around;
+    margin :80px 0px;
+    
+} 
