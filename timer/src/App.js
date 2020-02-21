@@ -8,6 +8,7 @@ function App() {
   return (
     <div>
       <Timer/>
+      <p>hatem</p>
       <p>chedy</p>
       
     </div>
